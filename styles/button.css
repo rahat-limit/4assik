@@ -1,0 +1,24 @@
+.button {
+  font-family: "PoppinsRegular";
+  border: 1px solid white;
+  padding: 11px 20px;
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+  transition: all ease-in-out 0.2s;
+}
+
+.button:hover {
+  background-color: white;
+  color: #198754;
+}
+
+.button-scn {
+  padding: 11px 25px;
+  background-color: #198754;
+}
+
+.button-scn:hover {
+  background-color: #145637;
+  color: white;
+}

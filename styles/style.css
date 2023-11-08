@@ -1,0 +1,9 @@
+@import url("./header.css");
+@import url("./typography.css");
+@import url("./section-hero.css");
+@import url("./button.css");
+@import url("./image.css");
+
+body {
+  background-color: #faf5db;
+}

@@ -3,6 +3,7 @@
 @import url("./section-hero.css");
 @import url("./button.css");
 @import url("./image.css");
+@import url("./link.css");
 
 body {
   background-color: #faf5db;
